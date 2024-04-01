@@ -39,6 +39,5 @@ public class main {
         director.approveRequest(10);
         director.approveRequest(30);
 
-
     }
 }
