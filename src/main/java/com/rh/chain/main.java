@@ -38,6 +38,7 @@ public class main {
         director.approveRequest(3);
         director.approveRequest(10);
         director.approveRequest(30);
+        Thread thread = new Thread();
 
     }
 }
